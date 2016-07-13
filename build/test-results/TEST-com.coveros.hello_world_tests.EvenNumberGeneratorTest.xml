@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.coveros.hello_world_tests.EvenNumberGeneratorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-07-13T15:35:56" hostname="DESKTOP-1U8V6DI" time="0.003">
+  <properties/>
+  <testcase name="testRandomEvenNumberGenerator" classname="com.coveros.hello_world_tests.EvenNumberGeneratorTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
